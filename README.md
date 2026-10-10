@@ -4,7 +4,6 @@ AI가 항로부터 리스크까지 판단하는 글로벌 물류 의사결정 �
 
 *Navigate Every Vehicle, Anywhere.*
 
-Team ATLAS · MOVE-AI with Hackathon 2026
 
 ---
 
@@ -93,8 +92,5 @@ API 키 없이도 모든 기능이 시뮬레이션 데이터로 즉시 동작합
 - [ ] 실데이터 연동 및 검증: AISHub·기상청·관세청 정식 API 연동, 파일럿 테스트
 - [ ] 사업화 및 확장: 사용자 인증, 모바일 앱, B2B 파트너십
 
-## Team ATLAS
 
-MOVE-AI with Hackathon 2026 참가팀
-
-문의: hyeonuseo199@gmail.com
+문의: line51015@naver.com
